@@ -2,7 +2,7 @@
 # (C) @FayasNoushad
 # Copyright permission under MIT License
 # All rights reserved by FayasNoushad
-# License -> https://github.com/FayasNoushad/URL-Shortner-Bot/blob/main/LICENSE
+# License -> https://github.com/PredatorHackerzZ/URL-Shortner-Bot/blob/main/LICENSE
 
 import os
 from pyrogram import Client as FayasNoushad
@@ -16,7 +16,7 @@ SHORTCM_API = os.environ.get("SHORTCM_API", "")
 
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(text='⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton(text="⭕ Join Updates Channel ⭕", url="https://telegram.me/TeleRoidGroup")
         ]]
     )
 
